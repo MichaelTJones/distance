@@ -1,2 +1,2 @@
 # distance
-Careful implementation of Jaro and Jaro-Winkler text difference algorithms
+Careful implementation of Jaro, Winkler, and Milne text difference algorithms. Fast, precise, rich test suite, careful factoring of computation, and other notions of robsutness.
