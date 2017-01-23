@@ -2,7 +2,7 @@ package distance
 
 // Jaro and Jaro-Winkler string distance (similarity) metrics
 // good background reading
-//   https://www.cs.cmu.edu/~pradeepr/papers/ijcai03.pdf
+//   http://www.cs.cmu.edu/~wcohen/postscript/ijcai-ws-2003.pdf
 
 func min(a, b int) int {
 	if a < b {
